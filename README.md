@@ -1,3 +1,3 @@
 # COGOBrandBook
 Digital COGO Brand Book
--Kuki
+-Kuki 2049
