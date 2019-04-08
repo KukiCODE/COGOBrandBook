@@ -1,8 +1,8 @@
 * {
     background-color: #EEEEEE;
-    font-family: Barlow;
+    font-family: Barlow, Futura;
+    font-stretch: semi-condensed;
     font-size: 1em;
-
     background-color: #41436A;
 }
 body {
@@ -32,8 +32,9 @@ ul {
     text-align: center;
     font-size: 1.5em;
     transition: 0.4s;
-    border-radius:0px 20px 20px 0px;
+    border-radius:0px 40px 40px 0px;
     transition: width 2s;
+    box-shadow: 10px 12px 17px -9px rgba(0,0,0,0.3);
   }
   
   
@@ -45,13 +46,60 @@ ul {
     margin-left:15%;
     padding:1px 16px;
     height:1000px;
+    text-align: center;
   }
 
-img {
-    width: 40em;
-}
+
+/*header text + Logo */
+
 
 .Header{
-position: 
+ display: inline-block;
+ text-align: center;
+ margin-right: 25%;
+ margin-top: 1%;
+
+}
+
+h1{
+    font-size: 3.5em;
+    color: #EEEEEE;
+    margin-top: 5%;
+    margin-bottom: 0.5%;
+}
+
+#Logo{
+    float: left;
+    height: 10em;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.HeadCont{
+    float: left;
+}
+
+#Subtitle{
+    color:#EEEEEE;
+    font-size: 2em;
+    margin-top: 0%;
+}
+/* Page Content */
+.HomeContent{
+    display: inline-block;
+    margin-right: 25%;
+    margin-top: 2%;
+}
+#GBA {
+    width: 40em;
+    float: left;
+    border-radius: 20px;
+    box-shadow: 10px 12px 17px -9px rgba(0,0,0,0.3);
+    margin-right: 20px;
+}
+#PInfo{
+    color: #EEEEEE;
+    font-size: 1.5em;
+    margin-top: 10%;
+
 }
 
