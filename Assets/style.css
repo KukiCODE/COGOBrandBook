@@ -4,6 +4,8 @@
     font-stretch: semi-condensed;
     font-size: 1em;
     background-color: #41436A;
+
+
 }
 body {
     margin: 0;
@@ -32,7 +34,7 @@ ul {
     text-align: center;
     font-size: 1.5em;
     transition: 0.4s;
-    border-radius:0px 40px 40px 0px;
+    border-radius:0px 2em 2em 0px;
     transition: width 2s;
     box-shadow: 10px 12px 17px -9px rgba(0,0,0,0.3);
   }
@@ -103,3 +105,37 @@ h1{
 
 }
 
+/* Next page Button */
+
+.NextPage{
+    transition: 0.4s;
+    margin-top: 5%;
+    display: inline-block;
+    width:auto;
+    height: auto;
+    opacity: 0.5;
+    margin-left: -20%;
+}
+
+#Arrow{
+    width:3.5em;
+    float:left;
+
+}
+
+#NextPageText{
+    float:left;
+    border-radius: 3em;
+    padding: auto;
+    font-size: 1.5em;
+    border: 0px;
+    color: #EEEEEE;
+    text-align: center;
+    text-decoration: none;
+    width: 8em;
+    height: 2.1em;
+}
+
+.NextPage:hover:not(.active) { 
+opacity: 1;
+}
