@@ -1,0 +1,30 @@
+/* Page Content */
+.HomeContent{
+    color: #EEEEEE;
+    display: inline-block;
+    margin-top: 2%;
+    margin-right: 20%;
+}
+#CValue {
+    width: 50em;
+    float: center;
+}
+
+#Icon{
+    width: 15em;
+}
+.ThreeRow{
+    margin-top: 5%;
+}
+
+#ThreeElement{ 
+    float: left;
+    padding: 2.4em;
+    text-align: center;
+}
+h2{
+    font-size: 2em;
+}
+p{
+    font-size: 1.3em;
+}

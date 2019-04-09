@@ -3,7 +3,8 @@
     font-family: Barlow, Futura;
     font-stretch: semi-condensed;
     font-size: 1em;
-    background-color: rgba(65,67,115,1);
+    background-color: #41436A;
+
 }
 body {
     margin: 0;
@@ -87,6 +88,25 @@ h1{
     font-size: 2em;
     margin-top: 0%;
 }
+/* Page Content */
+.HomeContent{
+    display: inline-block;
+    margin-right: 25%;
+    margin-top: 2%;
+}
+#GBA {
+    width: 40em;
+    float: left;
+    border-radius: 20px;
+    box-shadow: 10px 12px 17px -9px rgba(0,0,0,0.3);
+    margin-right: 20px;
+}
+#PInfo{
+    color: #EEEEEE;
+    font-size: 1.5em;
+    margin-top: 10%;
+
+}
 
 /* Next page Button */
 
@@ -97,8 +117,7 @@ h1{
     width:auto;
     height: auto;
     opacity: 0.5;
-    float: center;
-    margin-bottom: 5%;
+    margin-left: -20%;
 }
 
 #Arrow{
@@ -110,12 +129,13 @@ h1{
 #NextPageText{
     float:left;
     border-radius: 3em;
+    padding: auto;
     font-size: 1.5em;
     border: 0px;
     color: #EEEEEE;
     text-align: left;
     text-decoration: none;
-    width: auto;
+    width: 8em;
     height: 2.1em;
 }
 
