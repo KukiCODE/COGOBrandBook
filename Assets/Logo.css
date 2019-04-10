@@ -3,4 +3,32 @@
     display: inline-block;
     margin-top: 2%;
     margin-right: 20%;
+    margin-bottom: 4%;
+}
+h2{
+    font-size: 2em;
+    margin-top: 3.5%;
+    margin-bottom: 0%;
+}
+p{
+    font-size: 1.2em;
+}
+.HeadText{
+    Margin:auto;
+    Width: 40em;
+    Height: auto;
+}
+#TwoElem{
+    padding: 1em;
+    float: left;
+}
+.Clearspace{
+    display: inline;
+}
+
+#Clearspace{
+    width: 40em;
+}
+.TwoElem{
+    display: inline-block;
 }
