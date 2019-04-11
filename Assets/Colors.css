@@ -1,0 +1,101 @@
+/* Page Content */
+.HomeContent{
+    color: #EEEEEE;
+    display: inline-block;
+    margin-top: 2%;
+    margin-right: 20%;
+}
+
+#IntroText{
+    Height:10em;
+    width:50em;
+    margin:auto;
+    display: inline-block;
+}
+
+#Icon{
+    width: 15em;
+}
+.ThreeRow{
+    margin-top: 0%;
+    display: inline-block;
+}
+
+#ThreeElement{ 
+    float: left;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 0em;
+    margin-left: 5em;
+    margin-right: 5em;
+    border: solid;
+    border-color: #F54768;
+    padding: 2em;
+    border-radius: 1em;
+    box-shadow: 10px 12px 17px -9px rgba(0,0,0,0.3);
+}
+h2{
+    font-size: 2em;
+
+}
+p{
+    font-size: 1em;
+}
+h3{
+    font-size: 1.4em;
+    margin:0%;
+}
+
+#Color1{
+    margin: 1em;
+    Height:8em;
+    width:8em;
+    background-color: #F54768;
+    border:solid;
+    border-color: #EEEEEE;
+}
+
+#Color2{
+    margin: 1em;
+    Height:8em;
+    width:8em;
+    background-color: #ff9678;
+    border:solid;
+    border-color: #EEEEEE;
+}
+
+#Color3{
+    margin: 1em;
+    Height:8em;
+    width:8em;
+    background-color: #41436A;
+    border:solid;
+    border-color: #EEEEEE;
+}
+
+#Color4{
+    margin: 1em;
+    Height:8em;
+    width:8em;
+    background-color: #1d1919;
+    border:solid;
+    border-color: #EEEEEE;
+}
+
+#Color5{
+    margin: 1em;
+    Height:8em;
+    width:8em;
+    background-color: #EEEEEE;
+    border:solid;
+    border-color: #EEEEEE;
+}
+
+#Color6{
+    margin: 1em;
+    Height:8em;
+    width:8em;
+    background-image: linear-gradient(-90deg, #FF9678, #FF5D7C);
+    border:solid;
+    border-color: #EEEEEE;
+}

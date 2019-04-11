@@ -1,0 +1,32 @@
+.HomeContent{
+    color: #EEEEEE;
+    display: inline-block;
+    margin-top: 2%;
+    margin-right: 20%;
+}
+
+#Typo1{
+    height: 35em;
+}
+
+h2{
+    font-size: 1.4em;
+}
+
+#TypeText{
+    display: inline-block;
+    height: 6em;
+    width: 40em;
+}
+
+#Typo1{
+    border:solid;
+    border-color: #f54768;
+    border-radius:2em;
+    margin-bottom: 2em;
+    box-shadow: 10px 12px 17px -9px rgba(0,0,0,0.3);
+}
+ 
+h3{
+    font-size: 2em;
+}
