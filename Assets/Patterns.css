@@ -1,0 +1,46 @@
+.HomeContent{
+    color: #EEEEEE;
+    display: inline-block;
+    margin-top: 2%;
+    margin-right: 20%;
+}
+
+#IntroText{
+    Height:10em;
+    width:50em;
+    margin:auto;
+    display: inline-block;
+}
+#Corner{
+    height:42em;
+
+}
+#Icon{
+    width: 15em;
+}
+.ThreeRow{
+    margin-top: 0%;
+    display: inline-block;
+}
+
+#ThreeElement{ 
+    float: left;
+    text-align: center;
+    margin-bottom: 0em;
+}
+h2{
+    font-size: 2em;
+}
+
+p{
+    font-size: 1em;
+}
+h3{
+    font-size: 1.4em;
+    margin:0%;
+}
+#Icon{
+    margin: 2em;
+    Height:8em;
+    width:8em;
+}
