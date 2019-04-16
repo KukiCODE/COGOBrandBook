@@ -1,3 +1,2 @@
-# COGOBrandBook
-Digital COGO Brand Book
--Kuki 2049 007
+# VidyaBrandBook
+Digital Vidya Brand Book
