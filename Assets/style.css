@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@font-face {
+  font-family: Barlow;
+  src: url(https://fonts.googleapis.com/css?family=Barlow);
+}
+
 * {
     background-color: #EEEEEE;
     font-family: Barlow, Futura;
